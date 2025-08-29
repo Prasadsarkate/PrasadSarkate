@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **prasadsarkate9699@gmail.com** For Collaboration/Project o
 
 - 🔭 **I’m currently working on:** HexaScan
 - 🌱 **I’m currently learning:** Cybersecurity | java-fullstack
-- 👯 **I’m looking to collaborate on:** ThreatLogger (A lightweight cybersecurity tool that helps in logging, monitoring, and analyzing potential threats.)
+- 👯 **I’m looking to collaborate on:** ThreatLogger ( A lightweight cybersecurity tool that helps in logging, monitoring, and analyzing potential threats.)
 - 🤔 **I’m looking for help with:** Collaborations on Open Source Projects
 - 💬 **Ask me about:** Collaboration, Tech Support, CyberSecurity 
 - 😄 **Pronouns:** he/him 

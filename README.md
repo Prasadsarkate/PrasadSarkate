@@ -8,7 +8,6 @@ Email Me 👉 ✉️ **prasadsarkate9699@gmail.com** For Collaboration/Project o
 - 👯 **I’m looking to collaborate on:** ThreatLogger (A lightweight cybersecurity tool that helps in logging, monitoring, and analyzing potential threats.)
 - 🤔 **I’m looking for help with:** Collaborations on Open Source Projects
 - 💬 **Ask me about:** Collaboration, Tech Support, CyberSecurity 
-- 📫 **How to reach me:** prasadsarkate9699@gmail.com
 - 😄 **Pronouns:** he/him 
 - ⚡ **Fun fact:** 🤖 I debug my life by talking to AI.
   

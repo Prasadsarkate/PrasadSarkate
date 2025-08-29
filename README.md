@@ -1,7 +1,17 @@
-# 💫 About Me:
-HexaScan: Developing a network scanning tool for learning cybersecurity.
+# 💫 Hi 👋, I'm Prasad Sarkate
+**A passionate about cybersecurity and java full-stack developer from India**
 
+Email Me 👉 ✉️ **prasadsarkate9699@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+- 🔭 **I’m currently working on:** HexaScan
+- 🌱 **I’m currently learning:** Cybersecurity | java-fullstack
+- 👯 **I’m looking to collaborate on:** ThreatLogger (A lightweight cybersecurity tool that helps in logging, monitoring, and analyzing potential threats.)
+- 🤔 **I’m looking for help with:** Collaborations on Open Source Projects
+- 💬 **Ask me about:** Collaboration, Tech Support, CyberSecurity 
+- 📫 **How to reach me:** prasadsarkate9699@gmail.com
+- 😄 **Pronouns:** he/him 
+- ⚡ **Fun fact:** 🤖 I debug my life by talking to AI.
+  
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MQqaY6mA) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prasad_sarkate?igsh=Zm1vYXBhenF1MW9q) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prasadsarkate) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/u/prasad_sarkate/s/NNEaSWBXzR) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Prasad_Sarkate) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@hexacoresecurity?si=YWCoVfAaZNF2DZ5g) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasadsarkate9699@gmail.com) 
 

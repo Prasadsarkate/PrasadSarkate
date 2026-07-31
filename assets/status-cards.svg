@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e27"/>
+      <stop offset="100%" style="stop-color:#121638"/>
+    </linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  
+  <rect width="900" height="200" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="198" rx="16" fill="none" stroke="#1e2548" stroke-width="1"/>
+
+  <!-- Section title -->
+  <text x="450" y="35" font-family="Segoe UI, system-ui" font-size="16" font-weight="700" fill="#e2e8f0" text-anchor="middle" letter-spacing="3">📡 CURRENT STATUS</text>
+  <line x1="320" y1="48" x2="580" y2="48" stroke="#1e2548" stroke-width="1"/>
+
+  <!-- Card 1: Working On -->
+  <g transform="translate(35, 65)">
+    <rect width="195" height="110" rx="12" fill="#0d1230" stroke="#1e2548" stroke-width="1"/>
+    <rect width="195" height="110" rx="12" fill="#00d2ff" opacity="0.03"/>
+    <text x="97" y="35" font-family="Segoe UI" font-size="22" text-anchor="middle">🔭</text>
+    <text x="97" y="60" font-family="JetBrains Mono, monospace" font-size="10" fill="#64748b" text-anchor="middle">WORKING ON</text>
+    <text x="97" y="82" font-family="Segoe UI, system-ui" font-size="15" font-weight="700" fill="#00d2ff" text-anchor="middle" filter="url(#g)">HexaScan</text>
+    <text x="97" y="100" font-family="JetBrains Mono" font-size="9" fill="#475569" text-anchor="middle">Security Scanner</text>
+  </g>
+
+  <!-- Card 2: Learning -->
+  <g transform="translate(250, 65)">
+    <rect width="195" height="110" rx="12" fill="#0d1230" stroke="#1e2548" stroke-width="1"/>
+    <rect width="195" height="110" rx="12" fill="#7c3aed" opacity="0.03"/>
+    <text x="97" y="35" font-family="Segoe UI" font-size="22" text-anchor="middle">🌱</text>
+    <text x="97" y="60" font-family="JetBrains Mono, monospace" font-size="10" fill="#64748b" text-anchor="middle">LEARNING</text>
+    <text x="97" y="82" font-family="Segoe UI, system-ui" font-size="15" font-weight="700" fill="#7c3aed" text-anchor="middle" filter="url(#g)">Adv. CyberSec</text>
+    <text x="97" y="100" font-family="JetBrains Mono" font-size="9" fill="#475569" text-anchor="middle">+ Java Full-Stack</text>
+  </g>
+
+  <!-- Card 3: Collaborate -->
+  <g transform="translate(465, 65)">
+    <rect width="195" height="110" rx="12" fill="#0d1230" stroke="#1e2548" stroke-width="1"/>
+    <rect width="195" height="110" rx="12" fill="#f59e0b" opacity="0.03"/>
+    <text x="97" y="35" font-family="Segoe UI" font-size="22" text-anchor="middle">🤝</text>
+    <text x="97" y="60" font-family="JetBrains Mono, monospace" font-size="10" fill="#64748b" text-anchor="middle">COLLABORATE</text>
+    <text x="97" y="82" font-family="Segoe UI, system-ui" font-size="15" font-weight="700" fill="#f59e0b" text-anchor="middle" filter="url(#g)">ThreatLogger</text>
+    <text x="97" y="100" font-family="JetBrains Mono" font-size="9" fill="#475569" text-anchor="middle">Threat Monitoring</text>
+  </g>
+
+  <!-- Card 4: Ask Me -->
+  <g transform="translate(680, 65)">
+    <rect width="195" height="110" rx="12" fill="#0d1230" stroke="#1e2548" stroke-width="1"/>
+    <rect width="195" height="110" rx="12" fill="#10b981" opacity="0.03"/>
+    <text x="97" y="35" font-family="Segoe UI" font-size="22" text-anchor="middle">💬</text>
+    <text x="97" y="60" font-family="JetBrains Mono, monospace" font-size="10" fill="#64748b" text-anchor="middle">ASK ME ABOUT</text>
+    <text x="97" y="82" font-family="Segoe UI, system-ui" font-size="15" font-weight="700" fill="#10b981" text-anchor="middle" filter="url(#g)">CyberSecurity</text>
+    <text x="97" y="100" font-family="JetBrains Mono" font-size="9" fill="#475569" text-anchor="middle">Tech &amp; Collaboration</text>
+  </g>
+</svg>

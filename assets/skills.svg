@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" fill="none">
+  <defs>
+    <linearGradient id="bgG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e27"/>
+      <stop offset="100%" style="stop-color:#121638"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d2ff"/>
+      <stop offset="100%" style="stop-color:#00b4d8"/>
+    </linearGradient>
+    <linearGradient id="purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed"/>
+      <stop offset="100%" style="stop-color:#6d28d9"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f59e0b"/>
+      <stop offset="100%" style="stop-color:#d97706"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981"/>
+      <stop offset="100%" style="stop-color:#059669"/>
+    </linearGradient>
+    <linearGradient id="rose" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f43f5e"/>
+      <stop offset="100%" style="stop-color:#e11d48"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6"/>
+      <stop offset="100%" style="stop-color:#2563eb"/>
+    </linearGradient>
+    <clipPath id="roundClip"><rect x="0" y="0" width="300" height="14" rx="7"/></clipPath>
+    <filter id="gl"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="420" rx="16" fill="url(#bgG)"/>
+  <rect x="1" y="1" width="898" height="418" rx="16" fill="none" stroke="#1e2548" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="450" y="42" font-family="Segoe UI, system-ui" font-size="18" font-weight="700" fill="#e2e8f0" text-anchor="middle" letter-spacing="3">⚡ SKILL MATRIX</text>
+  <line x1="300" y1="55" x2="600" y2="55" stroke="#1e2548" stroke-width="1"/>
+
+  <!-- === ROW 1 === -->
+  <!-- Java -->
+  <text x="60" y="95" font-family="JetBrains Mono, monospace" font-size="13" fill="#94a3b8">Java</text>
+  <g transform="translate(160, 83)">
+    <rect width="300" height="14" rx="7" fill="#1e2548"/>
+    <rect width="0" height="14" rx="7" fill="url(#cyan)" filter="url(#gl)">
+      <animate attributeName="width" from="0" to="270" dur="2s" fill="freeze" begin="0.2s"/>
+    </rect>
+  </g>
+  <text x="480" y="95" font-family="JetBrains Mono, monospace" font-size="12" fill="#00d2ff">90%</text>
+
+  <!-- Python -->
+  <text x="530" y="95" font-family="JetBrains Mono, monospace" font-size="13" fill="#94a3b8">Python</text>
+  <g transform="translate(620, 83)">
+    <rect width="220" height="14" rx="7" fill="#1e2548"/>
+    <rect width="0" height="14" rx="7" fill="url(#purple)" filter="url(#gl)">
+      <animate attributeName="width" from="0" to="187" dur="2s" fill="freeze" begin="0.4s"/>
+    </rect>
+  </g>
+  <text x="856" y="95" font-family="JetBrains Mono, monospace" font-size="12" fill="#7c3aed">85%</text>
+
+  <!-- === ROW 2 === -->
+  <!-- JavaScript -->
+  <text x="60" y="140" font-family="JetBrains Mono, monospace" font-size="13" fill="#94a3b8">JavaScript</text>
+  <g transform="translate(160, 128)">
+    <rect width="300" height="14" rx="7" fill="#1e2548"/>
+    <rect width="0" height="14" rx="7" fill="url(#amber)" filter="url(#gl)">
+      <animate attributeName="width" from="0" to="255" dur="2s" fill="freeze" begin="0.6s"/>
+    </rect>
+  </g>
+  <text x="480" y="140" font-family="JetBrains Mono, monospace" font-size="12" fill="#f59e0b">85%</text>
+
+  <!-- React -->
+  <text x="530" y="140" font-family="JetBrains Mono, monospace" font-size="13" fill="#94a3b8">React</text>
+  <g transform="translate(620, 128)">
+    <rect width="220" height="14" rx="7" fill="#1e2548"/>
+    <rect width="0" height="14" rx="7" fill="url(#cyan)" filter="url(#gl)">
+      <animate attributeName="width" from="0" to="176" dur="2s" fill="freeze" begin="0.8s"/>
+    </rect>
+  </g>
+  <text x="856" y="140" font-family="JetBrains Mono, monospace" font-size="12" fill="#00d2ff">80%</text>
+
+  <!-- === ROW 3 === -->
+  <!-- Node.js -->
+  <text x="60" y="185" font-family="JetBrains Mono, monospace" font-size="13" fill="#94a3b8">Node.js</text>
+  <g transform="translate(160, 173)">
+    <rect width="300" height="14" rx="7" fill="#1e2548"/>
+    <rect width="0" height="14" rx="7" fill="url(#green)" filter="url(#gl)">
+      <animate attributeName="width" from="0" to="240" dur="2s" fill="freeze" begin="1.0s"/>
+    </rect>
+  </g>
+  <text x="480" y="185" font-family="JetBrains Mono, monospace" font-size="12" fill="#10b981">80%</text>
+
+  <!-- C++ -->
+  <text x="530" y="185" font-family="JetBrains Mono, monospace" font-size="13" fill="#94a3b8">C / C++</text>
+  <g transform="translate(620, 173)">
+    <rect width="220" height="14" rx="7" fill="#1e2548"/>
+    <rect width="0" height="14" rx="7" fill="url(#blue)" filter="url(#gl)">
+      <animate attributeName="width" from="0" to="165" dur="2s" fill="freeze" begin="1.2s"/>
+    </rect>
+  </g>
+  <text x="856" y="185" font-family="JetBrains Mono, monospace" font-size="12" fill="#3b82f6">75%</text>
+
+  <!-- === ROW 4 === -->
+  <!-- SQL -->
+  <text x="60" y="230" font-family="JetBrains Mono, monospace" font-size="13" fill="#94a3b8">SQL</text>
+  <g transform="translate(160, 218)">
+    <rect width="300" height="14" rx="7" fill="#1e2548"/>
+    <rect width="0" height="14" rx="7" fill="url(#purple)" filter="url(#gl)">
+      <animate attributeName="width" from="0" to="240" dur="2s" fill="freeze" begin="1.4s"/>
+    </rect>
+  </g>
+  <text x="480" y="230" font-family="JetBrains Mono, monospace" font-size="12" fill="#7c3aed">80%</text>
+
+  <!-- Bash -->
+  <text x="530" y="230" font-family="JetBrains Mono, monospace" font-size="13" fill="#94a3b8">Bash</text>
+  <g transform="translate(620, 218)">
+    <rect width="220" height="14" rx="7" fill="#1e2548"/>
+    <rect width="0" height="14" rx="7" fill="url(#green)" filter="url(#gl)">
+      <animate attributeName="width" from="0" to="176" dur="2s" fill="freeze" begin="1.6s"/>
+    </rect>
+  </g>
+  <text x="856" y="230" font-family="JetBrains Mono, monospace" font-size="12" fill="#10b981">80%</text>
+
+  <!-- Divider -->
+  <line x1="60" y1="260" x2="840" y2="260" stroke="#1e2548" stroke-width="1"/>
+  <text x="450" y="290" font-family="Segoe UI, system-ui" font-size="16" font-weight="700" fill="#e2e8f0" text-anchor="middle" letter-spacing="2">🛡️ CYBERSECURITY TOOLS</text>
+
+  <!-- === ROW 5 === -->
+  <!-- Kali Linux -->
+  <text x="60" y="325" font-family="JetBrains Mono, monospace" font-size="13" fill="#94a3b8">Kali Linux</text>
+  <g transform="translate(160, 313)">
+    <rect width="300" height="14" rx="7" fill="#1e2548"/>
+    <rect width="0" height="14" rx="7" fill="url(#rose)" filter="url(#gl)">
+      <animate attributeName="width" from="0" to="270" dur="2s" fill="freeze" begin="1.8s"/>
+    </rect>
+  </g>
+  <text x="480" y="325" font-family="JetBrains Mono, monospace" font-size="12" fill="#f43f5e">90%</text>
+
+  <!-- Wireshark -->
+  <text x="530" y="325" font-family="JetBrains Mono, monospace" font-size="13" fill="#94a3b8">Wireshark</text>
+  <g transform="translate(620, 313)">
+    <rect width="220" height="14" rx="7" fill="#1e2548"/>
+    <rect width="0" height="14" rx="7" fill="url(#amber)" filter="url(#gl)">
+      <animate attributeName="width" from="0" to="187" dur="2s" fill="freeze" begin="2.0s"/>
+    </rect>
+  </g>
+  <text x="856" y="325" font-family="JetBrains Mono, monospace" font-size="12" fill="#f59e0b">85%</text>
+
+  <!-- === ROW 6 === -->
+  <!-- Burp Suite -->
+  <text x="60" y="370" font-family="JetBrains Mono, monospace" font-size="13" fill="#94a3b8">Burp Suite</text>
+  <g transform="translate(160, 358)">
+    <rect width="300" height="14" rx="7" fill="#1e2548"/>
+    <rect width="0" height="14" rx="7" fill="url(#cyan)" filter="url(#gl)">
+      <animate attributeName="width" from="0" to="255" dur="2s" fill="freeze" begin="2.2s"/>
+    </rect>
+  </g>
+  <text x="480" y="370" font-family="JetBrains Mono, monospace" font-size="12" fill="#00d2ff">85%</text>
+
+  <!-- Nmap / Metasploit -->
+  <text x="530" y="370" font-family="JetBrains Mono, monospace" font-size="13" fill="#94a3b8">Nmap</text>
+  <g transform="translate(620, 358)">
+    <rect width="220" height="14" rx="7" fill="#1e2548"/>
+    <rect width="0" height="14" rx="7" fill="url(#rose)" filter="url(#gl)">
+      <animate attributeName="width" from="0" to="198" dur="2s" fill="freeze" begin="2.4s"/>
+    </rect>
+  </g>
+  <text x="856" y="370" font-family="JetBrains Mono, monospace" font-size="12" fill="#f43f5e">90%</text>
+
+  <!-- Bottom accent -->
+  <rect x="350" y="400" width="200" height="3" rx="2" fill="url(#cyan)" opacity="0.3">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>

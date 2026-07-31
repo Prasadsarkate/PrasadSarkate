@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" fill="none">
+  <defs>
+    <linearGradient id="footBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0e27"/>
+      <stop offset="50%" style="stop-color:#121638"/>
+      <stop offset="100%" style="stop-color:#0a0e27"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="60" fill="url(#footBg)"/>
+  
+  <!-- Quote text -->
+  <text x="450" y="28" font-family="JetBrains Mono, Fira Code, monospace" font-size="11" fill="#64748b" text-anchor="middle" letter-spacing="1">
+    "In cybersecurity, we don't just find vulnerabilities — we build shields that make systems unbreakable."
+  </text>
+  <text x="450" y="48" font-family="JetBrains Mono, monospace" font-size="10" fill="#475569" text-anchor="middle">
+    — Prasad Sarkate • Crafted with ❤️ • 2026
+  </text>
+
+  <!-- Side dots -->
+  <circle cx="80" cy="30" r="2" fill="#00d2ff" opacity="0.3">
+    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="820" cy="30" r="2" fill="#7c3aed" opacity="0.3">
+    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="4s" repeatCount="indefinite" begin="2s"/>
+  </circle>
+</svg>

@@ -89,11 +89,11 @@ module.exports = developer;
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+<img width="100%" src="https://raw.githubusercontent.com/Prasadsarkate/PrasadSarkate/output/github-snake-dark.svg" alt="Snake" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prasadsarkate&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=00d2ff&icon_color=7c3aed&text_color=94a3b8&ring_color=00d2ff&include_all_commits=true&count_private=true&line_height=24" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prasadsarkate&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=00d2ff&icon_color=7c3aed&text_color=94a3b8&ring_color=00d2ff&include_all_commits=true&count_private=true&line_height=24" alt="GitHub Stats" width="100%" />
 
 </div>
 
@@ -192,7 +192,7 @@ module.exports = developer;
 <div align="center">
 
 <a href="https://github.com/Prasadsarkate/authshield">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prasadsarkate&repo=authshield&hide_border=true&bg_color=0a0e27&title_color=00d2ff&icon_color=7c3aed&text_color=94a3b8&border_color=1e2548" width="100%" alt="AuthShield" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Prasadsarkate&repo=authshield&hide_border=true&bg_color=0a0e27&title_color=00d2ff&icon_color=7c3aed&text_color=94a3b8&border_color=1e2548" width="100%" alt="AuthShield" />
 </a>
 
 <br/>
@@ -218,7 +218,7 @@ Enterprise MFA Authentication System with 4 MFA methods, admin dashboard, SSO si
 <div align="center">
 
 <a href="https://github.com/Prasadsarkate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prasadsarkate&repo=Prasadsarkate&hide_border=true&bg_color=0a0e27&title_color=7c3aed&icon_color=f59e0b&text_color=94a3b8&border_color=1e2548" width="100%" alt="HexaScan" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Prasadsarkate&repo=PrasadSarkate&hide_border=true&bg_color=0a0e27&title_color=7c3aed&icon_color=f59e0b&text_color=94a3b8&border_color=1e2548" width="100%" alt="HexaScan" />
 </a>
 
 <br/>
@@ -250,18 +250,18 @@ Advanced cybersecurity scanning toolkit for vulnerability assessment, threat det
 
 <!-- Streak Stats -->
 <a href="https://github.com/Prasadsarkate">
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=Prasadsarkate&hide_border=true&background=0a0e27&stroke=1e2548&ring=00d2ff&fire=f59e0b&currStreakLabel=00d2ff&sideLabels=7c3aed&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=Prasadsarkate&hide_border=true&background=0a0e27&stroke=1e2548&ring=00d2ff&fire=f59e0b&currStreakLabel=00d2ff&sideLabels=7c3aed&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
 <!-- Top Languages + Stats side by side -->
 <a href="https://github.com/Prasadsarkate">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadsarkate&hide_border=true&bg_color=0a0e27&title_color=00d2ff&text_color=94a3b8&layout=compact&langs_count=10" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prasadsarkate&hide_border=true&bg_color=0a0e27&title_color=00d2ff&text_color=94a3b8&layout=compact&langs_count=10" alt="Top Languages" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Prasadsarkate">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prasadsarkate&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=7c3aed&icon_color=f59e0b&text_color=94a3b8&ring_color=7c3aed&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prasadsarkate&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=7c3aed&icon_color=f59e0b&text_color=94a3b8&ring_color=7c3aed&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </a>
 
 <br/><br/>
@@ -282,7 +282,7 @@ Advanced cybersecurity scanning toolkit for vulnerability assessment, threat det
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prasadsarkate&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Prasadsarkate&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-?" alt="Trophies" />
 
 </div>
 
@@ -298,9 +298,9 @@ Advanced cybersecurity scanning toolkit for vulnerability assessment, threat det
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prasadsarkate/Prasadsarkate/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prasadsarkate/Prasadsarkate/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Prasadsarkate/Prasadsarkate/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prasadsarkate/PrasadSarkate/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prasadsarkate/PrasadSarkate/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Prasadsarkate/PrasadSarkate/output/github-snake-dark.svg" />
 </picture>
 
 </div>

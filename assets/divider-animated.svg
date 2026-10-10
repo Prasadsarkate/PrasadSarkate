@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="30" viewBox="0 0 1200 30" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="line-grad" x1="50" y1="0" x2="1150" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#14B8A6" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <style>
+      .glow-line {
+        animation: breathe 3s infinite alternate ease-in-out;
+      }
+      .dot {
+        transform-box: fill-box;
+        transform-origin: center;
+        animation: breathe-dot 2.5s infinite alternate ease-in-out;
+      }
+      .dot:nth-child(even) {
+        animation-delay: 1.2s;
+        animation-duration: 3s;
+      }
+      .dot:nth-child(3n) {
+        animation-delay: 0.5s;
+        animation-duration: 3.5s;
+      }
+      @keyframes breathe {
+        0% { opacity: 0.4; }
+        100% { opacity: 1; filter: url(#glow); }
+      }
+      @keyframes breathe-dot {
+        0% { opacity: 0.3; transform: scale(0.6); }
+        100% { opacity: 1; transform: scale(1.3); filter: url(#glow); }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .glow-line, .dot {
+          animation: none;
+          opacity: 0.8;
+          filter: none;
+        }
+      }
+    </style>
+  </defs>
+  
+  <!-- Dark transparent/navy background -->
+  <rect width="1200" height="30" fill="#0B1120" opacity="0.5"/>
+  
+  <g class="glow-line">
+    <line x1="50" y1="15" x2="1150" y2="15" stroke="url(#line-grad)" stroke-width="1.5" />
+  </g>
+  
+  <!-- Dots scattered along the line -->
+  <g>
+    <circle cx="150" cy="15" r="1.5" fill="url(#line-grad)" class="dot"/>
+    <circle cx="300" cy="15" r="2" fill="url(#line-grad)" class="dot"/>
+    <circle cx="450" cy="15" r="1.5" fill="url(#line-grad)" class="dot"/>
+    <circle cx="600" cy="15" r="2.5" fill="url(#line-grad)" class="dot"/>
+    <circle cx="750" cy="15" r="1.5" fill="url(#line-grad)" class="dot"/>
+    <circle cx="900" cy="15" r="2" fill="url(#line-grad)" class="dot"/>
+    <circle cx="1050" cy="15" r="1.5" fill="url(#line-grad)" class="dot"/>
+  </g>
+</svg>

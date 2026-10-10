@@ -210,39 +210,66 @@ const developer = {
 
 <img src="./assets/skill-matrix.svg" width="100%" alt="Skill Matrix">
 
-<br><br>
-
-**`LANGUAGES`**
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp&theme=dark" alt="Languages">
+</div>
 
 <br>
 
-**`FRONTEND`**
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td width="50%" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend">
-
-<br>
-
-**`BACKEND & DATABASE`**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,sqlite,mysql&theme=dark" alt="Backend">
-
-<br>
-
-**`DEVOPS & TOOLS`**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" alt="DevOps">
+<img src="https://img.shields.io/badge/⌨️_LANGUAGES-0D1117?style=for-the-badge&logoColor=38BDF8" alt="Languages">
 
 <br><br>
 
-**`SECURITY FOCUS`**
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp&theme=dark&perline=5" alt="Languages">
 
-<img src="https://img.shields.io/badge/Application_Security-0F766E?style=for-the-badge&logo=checkmarx&logoColor=white" alt="AppSec">
-<img src="https://img.shields.io/badge/Network_Security-1D4ED8?style=for-the-badge&logo=wireshark&logoColor=white" alt="NetSec">
-<img src="https://img.shields.io/badge/Penetration_Testing-DC2626?style=for-the-badge&logo=kalilinux&logoColor=white" alt="PenTest">
-<img src="https://img.shields.io/badge/IoT_Security-7C3AED?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT">
-<img src="https://img.shields.io/badge/Secure_Development-14B8A6?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="SecDev">
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/🎨_FRONTEND-0D1117?style=for-the-badge&logoColor=38BDF8" alt="Frontend">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark&perline=5" alt="Frontend">
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/🔧_BACKEND_&_DATABASE-0D1117?style=for-the-badge&logoColor=38BDF8" alt="Backend">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,sqlite,mysql&theme=dark&perline=5" alt="Backend">
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/🚀_DEVOPS_&_TOOLS-0D1117?style=for-the-badge&logoColor=38BDF8" alt="DevOps">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark&perline=5" alt="DevOps">
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br>
+
+<img src="https://img.shields.io/badge/🛡️_SECURITY_SPECIALIZATIONS-0D1117?style=for-the-badge&logoColor=38BDF8" alt="Security">
+
+<br><br>
+
+<a href="#-security-lab"><img src="https://img.shields.io/badge/Application_Security-0F766E?style=for-the-badge&logo=checkmarx&logoColor=white" alt="AppSec"></a>
+<a href="#-security-lab"><img src="https://img.shields.io/badge/Network_Security-1D4ED8?style=for-the-badge&logo=wireshark&logoColor=white" alt="NetSec"></a>
+<a href="#-security-lab"><img src="https://img.shields.io/badge/Penetration_Testing-DC2626?style=for-the-badge&logo=kalilinux&logoColor=white" alt="PenTest"></a>
+<a href="#-security-lab"><img src="https://img.shields.io/badge/IoT_Security-7C3AED?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT"></a>
+<a href="#-security-lab"><img src="https://img.shields.io/badge/Secure_Development-14B8A6?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="SecDev"></a>
 
 </div>
 

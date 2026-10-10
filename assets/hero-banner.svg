@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Prasad Sarkate — Security-focused Developer</title>
+<desc id="desc">A dark navy and electric blue gradient banner with abstract network nodes and a shield motif.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#080D1B"/><stop offset=".55" stop-color="#111B3A"/><stop offset="1" stop-color="#312E81"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/>
+  </linearGradient>
+  <radialGradient id="orb"><stop stop-color="#38BDF8" stop-opacity=".28"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#94A3B8" stroke-opacity=".12" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+<circle cx="1030" cy="110" r="250" fill="url(#orb)"/>
+<g stroke="url(#glow)" stroke-opacity=".45" fill="none" stroke-width="1.6">
+ <path d="M790 70L890 120L1000 65L1090 145L1025 245L900 270L820 190Z"/>
+ <path d="M890 120L900 270M1000 65L1025 245M790 70L820 190M1090 145L1025 245"/>
+ <path d="M870 60L950 190L1135 210M790 250L950 190L1090 145"/>
+</g>
+<g fill="#38BDF8">
+ <circle cx="790" cy="70" r="4"/><circle cx="890" cy="120" r="5"/><circle cx="1000" cy="65" r="4"/>
+ <circle cx="1090" cy="145" r="5"/><circle cx="1025" cy="245" r="4"/><circle cx="900" cy="270" r="5"/>
+ <circle cx="820" cy="190" r="4"/><circle cx="950" cy="190" r="5"/>
+</g>
+<g transform="translate(1000 100)" opacity=".95">
+ <path d="M0 -48L42 -32V2C42 32 18 52 0 62C-18 52 -42 32 -42 2V-32Z" fill="#0B1226" stroke="url(#glow)" stroke-width="3"/>
+ <path d="M-18 2L-4 16L22 -13" fill="none" stroke="#7DD3FC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<rect x="56" y="48" width="7" height="240" rx="3.5" fill="url(#glow)"/>
+<text x="88" y="114" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">CYBERSECURITY • SOFTWARE</text>
+<text x="84" y="178" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="800">PRASAD SARKATE</text>
+<text x="88" y="222" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24">Security-focused Developer</text>
+<text x="88" y="264" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Building practical tools. Learning deeply. Designing more secure software.</text>
+<text x="88" y="316" fill="#7DD3FC" font-family="JetBrains Mono,Consolas,monospace" font-size="15">python  /  application security  /  full stack  /  IoT</text>
+</svg>

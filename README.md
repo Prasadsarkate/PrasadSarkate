@@ -31,7 +31,7 @@
 <!-- SECTION 3 — ANIMATED TYPING INTRODUCTION                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&width=740&lines=%F0%9F%9B%A1%EF%B8%8F+Security-Focused+Developer;%F0%9F%94%8D+Building+tools+that+make+systems+safer;%F0%9F%90%8D+Python+%7C+AppSec+%7C+Full+Stack+%7C+IoT;%E2%9A%A1+Learn.+Build.+Test.+Improve.;%F0%9F%94%90+Turning+code+into+shields." alt="Animated introduction">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&width=860&lines=%F0%9F%9B%A1%EF%B8%8F+Security-Focused+Developer;%F0%9F%94%8D+Building+tools+that+make+systems+safer;%F0%9F%90%8D+Python+%7C+AppSec+%7C+Full+Stack+%7C+IoT;%E2%9A%A1+Learn.+Build.+Test.+Improve.;%F0%9F%94%90+Turning+code+into+shields." alt="Animated introduction">
 
 </div>
 
@@ -47,15 +47,15 @@
 
 <br>
 
-<img src="./assets/profile-avatar.jpg" width="220" alt="Prasad Sarkate" style="border-radius: 50%;">
+<img src="./assets/avatar-circle.png" width="220" alt="Prasad Sarkate — Cybersecurity Developer">
 
 <br><br>
 
-<a href="https://github.com/prasadsarkate"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/prasadsarkate"><img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"></a>
 
 <a href="https://www.linkedin.com/in/prasadsarkate"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<a href="https://hexacoreclasses.in/"><img src="https://img.shields.io/badge/Website-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://hexacoreclasses.in/"><img src="https://img.shields.io/badge/HexaCore-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 
 <br><br>
 
